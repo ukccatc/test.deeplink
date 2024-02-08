@@ -1,7 +1,7 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
-    "namespace": "farmspacefs",
+    "namespace": "android_app",
     "package_name": "com.farmspace.farmspace",
     "sha256_cert_fingerprints":
     ["EC:D8:A5:72:1A:77:92:A6:28:38:ED:BC:72:C4:60:5E:9E:15:BF:6B:A2:90:F8:F7:99:01:91:88:30:7F:50:69"]
